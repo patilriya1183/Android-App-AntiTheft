@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AntiTheft Protection</string>
+    <string name="welcome">Welcome to Anti-Theft System</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="not_register">Not yet registered? Sign up</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_register">Already registered? Sign In</string>
+    <string name="forget_password1">Forget Password</string>
+    <string name="next">Next</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="ok">OK</string>
+    <string name="registration_successfully">Registration successfully</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="please_verify_your_email_address_by_clicking_the_link_sent_to">Please verify your email address by clicking the link sent to :</string>
+    <string name="resend">Resend</string>
+    <string name="go_to_login">Go to Login</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Face Recognition</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>
