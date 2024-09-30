@@ -1,6 +1,6 @@
 # Android-AntiTheft
 
-The Android-AntiTheft project by `xncoder01` is focused on enhancing the security of Android devices through SMS-based commands. This application allows users to perform various actions on their Android device remotely by sending predefined SMS commands, making it highly useful in situations where the device is lost or stolen.
+The Android-AntiTheft project is focused on enhancing the security of Android devices through SMS-based commands. This application allows users to perform various actions on their Android device remotely by sending predefined SMS commands, making it highly useful in situations where the device is lost or stolen.
 
 ## Key Features
 
@@ -21,7 +21,7 @@ The Android-AntiTheft project by `xncoder01` is focused on enhancing the securit
 ### Installation
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/xncoder01/Android-AntiTheft.git
+   git clone https://github.com/patilriya1183/Android-App-AntiTheft
 
 2. Open the cloned project in Android Studio.
 
@@ -43,13 +43,3 @@ We welcome contributions from the community. If you'd like to contribute:
 3. Commit your changes (`git commit -m 'Add some YourFeature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## Contact
-
-- Prashik Likhar - [LinkedIn](https://www.linkedin.com/in/prashik-likhar/)
-- Project Link: [https://github.com/xncoder01/Android-AntiTheft](https://github.com/xncoder01/Android-AntiTheft)
-
-## Acknowledgements
-
-- [Android Development Documentation](https://developer.android.com/docs)
-- [SMS Manager for Android](https://developer.android.com/reference/android/telephony/SmsManager)
